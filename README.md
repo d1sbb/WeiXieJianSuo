@@ -6,7 +6,7 @@
 工具会远程访问一个文本，里面是已经调用过微步API检索过的sha256值。如果你的进程和sha256值匹配，列表框会自动过滤掉此进程。
 ![image-1](https://raw.githubusercontent.com/D1sbb/WeiXieJianSuo/main/1.jpg)
 ## 快速检索
-输入你要查的域名或者IP
+输入你要查的域名或者IP(编辑框什么都不填，则会查询所有进程的TCP连接)
 即可检索进程是否进行TCP连接，可一直点点点。
 ![image-2](https://raw.githubusercontent.com/D1sbb/WeiXieJianSuo/main/2.jpg)
 ## 深度扫描
