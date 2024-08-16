@@ -24,7 +24,7 @@
 找到工具运行目录，双击Disbb.ini配置文件修改
 
 ## 需要什么功能，可以提Issue，能力有限，会了就加。
-已加功能: 后面想着把最近所有的攻击IP情报加上去进行TCP匹配
+已加功能(2W多恶意IP): 后面想着把最近一个月的攻击IP情报加上去进行TCP匹配
 ![image-6](https://raw.githubusercontent.com/D1sbb/WeiXieJianSuo/main/6新增2w多恶意IP匹配.jpg)
 ## 麻辣香锅木马重启后 查询域名
 ![image-5](https://raw.githubusercontent.com/D1sbb/WeiXieJianSuo/main/5重启后.jpg)
