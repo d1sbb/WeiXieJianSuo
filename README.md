@@ -5,6 +5,7 @@
 ## 1.0.5
 双击某个进程 导出内存信息 再分析出字符串(暂时只能导出32位的进程)
 更新恶意IP到2.9W
+![image-8](https://raw.githubusercontent.com/D1sbb/WeiXieJianSuo/main/assets/8%E8%BD%AC%E5%AD%98%E6%96%87%E4%BB%B6%E5%88%86%E6%9E%90%E6%81%B6%E6%84%8F%E5%9F%9F%E5%90%8D.jpg)
 
 ## 1.0.4 新增获取数字签名+更新到2.5W个恶意IP
 ![image-7](https://raw.githubusercontent.com/D1sbb/WeiXieJianSuo/main/assets/7%E6%96%B0%E5%A2%9E%E8%8E%B7%E5%8F%96%E6%95%B0%E5%AD%97%E7%AD%BE%E5%90%8D.jpg)
