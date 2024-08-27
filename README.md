@@ -4,6 +4,7 @@
 夜班无聊看群里聊天有这个需求，就写了个工具，没啥技术含量，上机排查可以用用。
 ## 1.0.6
 优化部分进程取sha值错误
+
 列表框可以右键了
 
 ## 启动
@@ -21,7 +22,6 @@
 ## 双击列表框某个进程
 会调用微步API进行分析
 ![image-3](https://raw.githubusercontent.com/D1sbb/WeiXieJianSuo/main/assets/3.jpg)
-![image-4](https://raw.githubusercontent.com/D1sbb/WeiXieJianSuo/main/assets/4.jpg)
 ## UDP
 勾选就查UDP连接 好像没啥用
 
@@ -29,7 +29,7 @@
 你也可以替换成自己的APIKEY
 找到工具运行目录，双击Disbb.ini配置文件修改
 
-## 需要什么功能，可以加
-![image-6](https://raw.githubusercontent.com/D1sbb/WeiXieJianSuo/main/assets/6新增2w多恶意IP匹配.jpg)
 ## 麻辣香锅木马重启后 查询域名
 ![image-5](https://raw.githubusercontent.com/D1sbb/WeiXieJianSuo/main/assets/5重启后.jpg)
+
+## 需要什么功能，可以加
