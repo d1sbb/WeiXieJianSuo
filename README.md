@@ -2,13 +2,10 @@
 威胁检索工具，利用微步API检索本地进程。
 
 夜班无聊看群里聊天有这个需求，就写了个工具，没啥技术含量，上机排查可以用用。
-## 1.0.5
-双击某个进程 导出内存信息 再分析出字符串(暂时只能导出32位的进程)
-更新恶意IP到2.9W
-![image-8](https://raw.githubusercontent.com/D1sbb/WeiXieJianSuo/main/assets/8%E8%BD%AC%E5%AD%98%E6%96%87%E4%BB%B6%E5%88%86%E6%9E%90%E6%81%B6%E6%84%8F%E5%9F%9F%E5%90%8D.jpg)
+## 1.0.6
+优化部分进程取sha值错误
+列表框可以右键了
 
-## 1.0.4 新增获取数字签名+更新到2.5W个恶意IP
-![image-7](https://raw.githubusercontent.com/D1sbb/WeiXieJianSuo/main/assets/7%E6%96%B0%E5%A2%9E%E8%8E%B7%E5%8F%96%E6%95%B0%E5%AD%97%E7%AD%BE%E5%90%8D.jpg)
 ## 启动
 <del>工具会远程访问一个文本</del>(为了减少工具报毒，只能写到内存里)，里面是已经调用过微步API检索过的sha256值。如果你的进程和sha256值匹配，列表框会自动过滤掉此进程。
 ![image-1](https://raw.githubusercontent.com/D1sbb/WeiXieJianSuo/main/1.jpg)
@@ -33,9 +30,6 @@
 找到工具运行目录，双击Disbb.ini配置文件修改
 
 ## 需要什么功能，可以加
-1. (2W多恶意IP匹配)后面想着把最近一个月的攻击IP情报加上去进行TCP匹配
 ![image-6](https://raw.githubusercontent.com/D1sbb/WeiXieJianSuo/main/6新增2w多恶意IP匹配.jpg)
-2. TCP判断是否是临时信任的IP地址
-3. 待加 累了 微步api判断TCP里IP是否恶意
 ## 麻辣香锅木马重启后 查询域名
 ![image-5](https://raw.githubusercontent.com/D1sbb/WeiXieJianSuo/main/5重启后.jpg)
