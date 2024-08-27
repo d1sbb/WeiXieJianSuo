@@ -33,3 +33,4 @@
 ![image-5](https://raw.githubusercontent.com/D1sbb/WeiXieJianSuo/main/assets/5重启后.jpg)
 
 ## 需要什么功能，可以加
+![image-4](https://raw.githubusercontent.com/D1sbb/WeiXieJianSuo/main/assets/4%E8%BD%AC%E5%AD%98%E6%96%87%E4%BB%B6%E5%88%86%E6%9E%90%E6%81%B6%E6%84%8F%E5%9F%9F%E5%90%8D.jpg)
